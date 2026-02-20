@@ -1,3 +1,5 @@
+! [Логотип NeuroStartUp]("C:\Users\Пользователь\Downloads\logo (1).png")
+
 # NeuroStartUp — динамично развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта. 
 
 ## Наши преимущества:
@@ -18,6 +20,5 @@
 ```css
 .selector {
   font-family: "Awesome", Arial, sans-serif;
-  color: red;
 }
 ```
